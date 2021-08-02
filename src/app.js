@@ -16,6 +16,7 @@ import studentRoutes from './routes/studentR';
 import uploadRoutes from './routes/uploadR';
 
 const whiteList = [
+  'https://pt.wikipedia.org',
   'http://54.232.45.47',
   'http://localhost:3000',
 ];
