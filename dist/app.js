@@ -16,6 +16,7 @@ var _studentR = require('./routes/studentR'); var _studentR2 = _interopRequireDe
 var _uploadR = require('./routes/uploadR'); var _uploadR2 = _interopRequireDefault(_uploadR);
 
 const whiteList = [
+  'https://pt.wikipedia.org',
   'http://54.232.45.47',
   'http://localhost:3000',
 ];
