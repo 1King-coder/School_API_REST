@@ -1,3 +1,3 @@
 export default {
-  url: process.env.API_URL,
+  url: 'http://54.232.12.74',
 };
