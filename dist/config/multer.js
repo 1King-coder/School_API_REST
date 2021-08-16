@@ -13,7 +13,7 @@ exports. default = {
   },
   storage: _multer2.default.diskStorage({
     destination: (req, file, cb) => {
-      cb(null, _path.resolve.call(void 0, __dirname, '..', '..', 'uploads', 'images'));
+      cb(null, _path.resolve.call(void 0, __dirname, '..', 'uploads', 'images'));
     },
     filename: (req, file, cb) => {
       cb(null, `${Date.now()}${random()}${_path.extname.call(void 0, file.originalname)}`);
