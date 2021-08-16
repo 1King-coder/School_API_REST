@@ -17,7 +17,7 @@ var _uploadR = require('./routes/uploadR'); var _uploadR2 = _interopRequireDefau
 
 const whiteList = [
   'https://pt.wikipedia.org',
-  'http://54.232.45.47',
+  'http://54.232.12.74',
   'http://localhost:3000',
 ];
 
