@@ -16,7 +16,7 @@ var _studentR = require('./routes/studentR'); var _studentR2 = _interopRequireDe
 var _uploadR = require('./routes/uploadR'); var _uploadR2 = _interopRequireDefault(_uploadR);
 
 const whiteList = [
-  'http://54.232.12.74',
+  'http://54.94.27.19',
   'http://localhost:3000',
 ];
 
