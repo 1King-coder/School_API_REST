@@ -1,3 +1,3 @@
 export default {
-  url: 'http://54.232.12.74',
+  url: 'http://54.94.27.19',
 };

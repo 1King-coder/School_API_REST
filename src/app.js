@@ -16,7 +16,7 @@ import studentRoutes from './routes/studentR';
 import uploadRoutes from './routes/uploadR';
 
 const whiteList = [
-  'http://54.232.12.74',
+  'http://54.94.27.19',
   'http://localhost:3000',
 ];
 
